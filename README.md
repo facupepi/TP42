@@ -9,9 +9,7 @@
   - `Zoologico`: Clase que representa un zoológico y permite agregar animales.
 
 ## Acciones a Realizar
-
-- En el programa principal (`main`), se deben llevar a cabo las siguientes acciones:
-
+En el programa principal (`main`), se deben llevar a cabo las siguientes acciones:
   a. Se instancian dos aves, dos mamíferos y un zoológico.
   b. Se agregan los animales al zoológico.
   c. Se llama al método `hacer_sonido` en el zoológico, el cual recorre todos los animales y muestra los sonidos que hacen.
